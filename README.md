@@ -1,3 +1,21 @@
+class Developer
+{
+    public string Nickname => "Veenix130";
+
+    public string[] Languages =>
+    {
+        "C#",
+        "C++",
+        "Python"
+    };
+
+    public string CurrentGoal =>
+        "Become a professional Software Engineer";
+
+    public string Motto =>
+        "Code. Learn. Improve. Repeat.";
+}
+
 👋 Привет, я Veenix130
 <div align="center">
 🚀 Junior Developer
