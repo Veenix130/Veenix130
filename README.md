@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Veenix130&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Veenix130/Veenix130/output/snake.svg)
+
 ## 🛠 Tech Stack
 
 <p align="center">
