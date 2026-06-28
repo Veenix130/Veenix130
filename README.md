@@ -43,7 +43,6 @@
 ⸻
 
 Контакты
-<div align="center">
 📧 Email: Veenix130@yandex.ru
 💬 Telegram: @veenix
 🌐 GitHub: https://github.com/Veenix130
