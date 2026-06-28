@@ -30,6 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Veenix130&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🎮 My Projects
+
+### Snake Game (C#)
+Classic Snake game written in C#.
+
+🔗 https://github.com/Veenix130/SnakeGame-CS
 
 ## 🛠 Tech Stack
 
