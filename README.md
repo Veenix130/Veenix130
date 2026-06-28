@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Veenix130-0&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Veenix130&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ## 🛠 Tech Stack
@@ -39,6 +39,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,visualstudio,vscode,git,github,linux" />
 </p>
+
 Контакты
 📧 Email: Veenix130@yandex.ru
 💬 Telegram: @veenix
