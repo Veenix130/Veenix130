@@ -44,8 +44,8 @@
  
 📫 Контакты
 <div align="center">
-📧 Email: your-email@example.com
-💬 Telegram: @your_telegram
+📧 Email: Veenix130@yandex.ru
+💬 Telegram: @veenix
 🌐 GitHub: https://github.com/Veenix130
 </div>
  
@@ -53,5 +53,4 @@
  
 <div align="center">
 ⭐ Спасибо за посещение профиля!
-«Каждая строка кода — это шаг к новым возможностям.»
 </div>
