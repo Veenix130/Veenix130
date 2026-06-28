@@ -1,21 +1,6 @@
-class Developer
-{
-    public string Nickname => "Veenix130";
-
-    public string[] Languages =>
-    {
-        "C#",
-        "C++",
-        "Python"
-    };
-
-    public string CurrentGoal =>
-        "Become a professional Software Engineer";
-
-    public string Motto =>
-        "Code. Learn. Improve. Repeat.";
-}
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Veenix130&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 👋 Привет, я Veenix130
 <div align="center">
 🚀 Junior Developer
