@@ -6,14 +6,6 @@
 
 ⸻
  
-📊 GitHub Статистика
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veenix130&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veenix130&layout=compact&theme=tokyonight" />
-</p>
- 
-⸻
- 
 🎯 Сейчас изучаю
 Современный .NET и экосистему C#
 Архитектуру приложений
